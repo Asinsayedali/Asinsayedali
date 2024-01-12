@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/asin_sayed" target="blank"><img src="https://img.shields.io/twitter/follow/asin_sayed?logo=twitter&style=for-the-badge" alt="asin_sayed" /></a> </p>
 
-- 🔭 I’m currently working on **AI Projects**
+- 🔭 I’m currently working on **Learning Backend Development**
 
-- 🌱 I’m currently learning **AI development,Pathway llm-app Framework etc.**
+- 🌱 I’m currently learning **AI development,Pathway llm-app Framework,Backend Development etc.**
 
 - 👯 I’m looking to collaborate on **Building web apps**
 
