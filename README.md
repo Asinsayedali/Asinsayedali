@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Projects**
 
-- 🌱 I’m currently learning **Backend Development, Pathway llm-app Framework, React.js etc.**
+- 🌱 I’m currently learning **Backend Development, Pathway llm-app Framework etc.**
 
 - 👯 I’m looking to collaborate on **Building web apps**
 
